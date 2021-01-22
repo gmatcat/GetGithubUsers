@@ -1,6 +1,6 @@
 Project Description:<br />
 &emsp;Fetches github users and displays it to a list <br/>
-&emsp;Handles pagination 20 users at a time and retrieved users are retained locally <br />
+&emsp;Handles pagination 30 users at a time and retrieved users are retained locally <br />
 &emsp;You can visit their profile and add a note, notes are saved locally<br />
 &emsp;Has user searching based on name or associated note attached <br />
 &emsp;Supports dark mode and all screen sizes <br />
